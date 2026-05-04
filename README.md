@@ -1,6 +1,6 @@
 # PSR Workflow — Document-Driven Development for AI-Assisted Coding
 
-> 📖 [**中文版 (Chinese Version)**](ZH/PSR-README.md)
+> 📖 [**中文版 (Chinese Version)**](ZH/README.md)
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = Prevents AI from demolishing your house while fixing a pipe.
 
@@ -162,9 +162,9 @@ The agent will:
 ### Create Sub-Agents (Optional)
 
 Create 3 sub-agents in Trae IDE (or any editor that supports sub-agents):
-- **PSR-Researcher** — Researcher (see `PSRWORKFLOW/en/Agent-01-researcher.md`)
-- **PSR-Reviewer** — Reviewer (see `PSRWORKFLOW/en/Agent-02-code-reviewer.md`)
-- **PSR-Fixer** — Fixer (see `PSRWORKFLOW/en/Agent-03-fixer.md`)
+- **PSR-Researcher** — Researcher (see `.planning/Agent-01-researcher.md`)
+- **PSR-Reviewer** — Reviewer (see `.planning/Agent-02-code-reviewer.md`)
+- **PSR-Fixer** — Fixer (see `.planning/Agent-03-fixer.md`)
 
 The workflow works fine without sub-agents — the main agent will prompt you to manually take over the corresponding steps when needed.
 
@@ -215,5 +215,5 @@ The workflow works fine without sub-agents — the main agent will prompt you to
 
 ## Language Support
 
-- English version: This file + all docs under `PSRWORKFLOW/en/`
-- Chinese version: See [`PSRWORKFLOW/ZH/`](ZH/) directory
+- English version: This file + all docs under `.planning/`
+- Chinese version: See [`ZH/`](ZH/) directory

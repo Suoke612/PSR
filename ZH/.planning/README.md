@@ -160,9 +160,9 @@ Agent 会：
 ### 创建子智能体（可选）
 
 在 Trae IDE（或其他支持子智能体的编辑器）中创建 3 个子智能体：
-- **PSR-Researcher** — 研究员（参照 `PSRWORKFLOW/ZH/PSR研究.md`）
-- **PSR-Reviewer** — 审查员（参照 `PSRWORKFLOW/ZH/PSR审核.md`）
-- **PSR-Fixer** — 修理工（参照 `PSRWORKFLOW/ZH/PSR修理.md`）
+- **PSR-Researcher** — 研究员（参照 `.planning/Agent-01-researcher.md`）
+- **PSR-Reviewer** — 审查员（参照 `.planning/Agent-02-code-reviewer.md`）
+- **PSR-Fixer** — 修理工（参照 `.planning/Agent-03-fixer.md`）
 
 不创建子智能体也能正常使用工作流——主智能体会在需要时提示你手动接管对应步骤。
 
@@ -213,5 +213,5 @@ Agent 会：
 
 ## 语言支持
 
-- 中文版（默认）：本文件 + `PSRWORKFLOW/ZH/` 下所有文档
-- 英文版：见 [`PSRWORKFLOW/en/`](../en/) 目录
+- 中文版（默认）：本文件 + `.planning/` 下所有文档
+- 英文版：见 [`.planning/`](../../.planning/) 目录

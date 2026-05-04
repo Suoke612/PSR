@@ -160,9 +160,9 @@ The agent will:
 ### Create Sub-Agents (Optional)
 
 Create 3 sub-agents in Trae IDE (or any editor that supports sub-agents):
-- **PSR-Researcher** — Researcher (see `PSRWORKFLOW/en/Agent-01-researcher.md`)
-- **PSR-Reviewer** — Reviewer (see `PSRWORKFLOW/en/Agent-02-code-reviewer.md`)
-- **PSR-Fixer** — Fixer (see `PSRWORKFLOW/en/Agent-03-fixer.md`)
+- **PSR-Researcher** — Researcher (see `Agent-01-researcher.md`)
+- **PSR-Reviewer** — Reviewer (see `Agent-02-code-reviewer.md`)
+- **PSR-Fixer** — Fixer (see `Agent-03-fixer.md`)
 
 The workflow works fine without sub-agents — the main agent will prompt you to manually take over the corresponding steps when needed.
 
@@ -213,5 +213,5 @@ The workflow works fine without sub-agents — the main agent will prompt you to
 
 ## Language Support
 
-- English version: This file + all docs under `PSRWORKFLOW/en/`
-- Chinese version: See [`PSRWORKFLOW/ZH/`](../ZH/) directory
+- English version: This file + all docs under `.planning/`
+- Chinese version: See [`ZH/`](../ZH/) directory
