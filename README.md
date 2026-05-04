@@ -4,10 +4,20 @@
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = Prevents AI from demolishing your house while fixing a pipe.
 
+---
+
+## Quick Start
+
+**Option 1 — Terminal (for developers):**
+
 ```bash
 # One-line install — works on macOS, Linux, and Git Bash on Windows
 curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
 ```
+
+**Option 2 — Ask your AI agent (for everyone):**
+
+> Download the PSR workflow files from `https://github.com/Suoke612/PSR` and set them up in my project. Use the English version from `.planning/`.
 
 ---
 

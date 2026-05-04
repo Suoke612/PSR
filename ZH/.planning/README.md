@@ -2,11 +2,21 @@
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = 防止 AI 在修水管时拆了你的房子。
 
+---
+
+## 快速开始
+
+**方式一 — 终端命令（适合有开发经验的用户）：**
+
 ```bash
 # 一行命令安装 — 支持 macOS、Linux 和 Windows Git Bash
 # 中文版：PSR_LANG=zh curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
 curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
 ```
+
+**方式二 — 直接跟 AI 对话（适合所有人，包括非技术人员）：**
+
+> 帮我从 `https://github.com/Suoke612/PSR` 下载 PSR 工作流的中文版本，把 `ZH/.planning/` 里的文件放到我的项目里并初始化。
 
 ---
 
