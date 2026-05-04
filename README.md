@@ -1,6 +1,6 @@
 # PSR Workflow — Document-Driven Development for AI-Assisted Coding
 
-> 📖 [**中文版 (Chinese Version)**](ZH/README.md)
+> 📖 [**中文版 (Chinese Version)**](ZH/.planning/README.md)
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = Prevents AI from demolishing your house while fixing a pipe.
 
