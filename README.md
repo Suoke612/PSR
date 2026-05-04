@@ -8,7 +8,7 @@
 
 ## Quick Start
 
-**Option 1 — Terminal (for developers):**
+**Terminal:**
 
 ```bash
 # One-line install — works on macOS, Linux, and Git Bash on Windows
