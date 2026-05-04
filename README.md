@@ -4,6 +4,11 @@
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = Prevents AI from demolishing your house while fixing a pipe.
 
+```bash
+# One-line install — works on macOS, Linux, and Git Bash on Windows
+curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
+```
+
 ---
 
 ## What is PSR?

@@ -2,6 +2,12 @@
 
 > **P**hase-driven development + **S**ub-agents + **R**ecovery = 防止 AI 在修水管时拆了你的房子。
 
+```bash
+# 一行命令安装 — 支持 macOS、Linux 和 Windows Git Bash
+# 中文版：PSR_LANG=zh curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Suoke612/PSR/main/install.sh | bash
+```
+
 ---
 
 ## 这是什么？
